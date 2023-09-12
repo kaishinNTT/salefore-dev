@@ -30,3 +30,4 @@ for(Integer i=0; i<TimSo.size();i++){
 System.debug('So thu hai la  :' + SoLonHai + 'Vi tri  moi la :' + Vitri1);
 
     }
+}
