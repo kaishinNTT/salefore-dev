@@ -1,6 +1,6 @@
 public with sharing class BaiTapVeMapsBaiSoHai {
     public BaiTapVeMapsBaiSoHai() {
-        List<String> MangChuCaiAphabet = new List<String> {'A'};
+        List<String> MangChuCaiAphabet = new List<String> {'A','B','C'};
         List<String> MangChuCaiMoi = new List<String>();
 
         for (String chuCaiAphabet : MangChuCaiAphabet) {
